@@ -9,12 +9,12 @@
   "compatibility_date": "2025-07-19",
   "kv_namespaces": [
     {
-      "binding": "CACHE_KV",
+      "binding": "deeplx_CACHE_KV",
       "id": "cda580f86803452face8bc0db9068efa",
       "preview_id": "e9e499fe006e4879a0668e792fe2dd15"
     },
     {
-      "binding": "RATE_LIMIT_KV",
+      "binding": "deeplx_RATE_LIMIT_KV",
       "id": "2bcf3fe1cd32400e8b879cc8bd047bcf",
       "preview_id": "bbed039364e5488e8ed58701c3ee5da5"
     }
